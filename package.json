@@ -1,0 +1,41 @@
+{
+  "name": "@bablr/highlight",
+  "version": "0.0.0",
+  "description": "Code block syntax highlighting using BABLR",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "dependencies": {
+    "@bablr/agast-helpers": "0.8.0",
+    "@bablr/boot": "0.9.0",
+    "@bablr/helpers": "0.23.0",
+    "@bablr/language-en-cstml": "0.10.0",
+    "@bablr/language-en-esnext": "0.1.0",
+    "@iter-tools/imm-stack": "1.1.0",
+    "bablr": "0.9.0",
+    "classnames": "2.5.1"
+  },
+  "devDependencies": {
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c97bfa4b3663f8378e9b3e42bb5a41e685406cf9",
+    "@qnighy/dedent": "0.1.1",
+    "enhanced-resolve": "^5.12.0",
+    "eslint": "^8.32.0",
+    "eslint-import-resolver-enhanced-resolve": "^1.0.5",
+    "eslint-plugin-import": "^2.27.5",
+    "expect": "^29.7.0",
+    "mocha": "^10.8.2",
+    "prettier": "^2.6.2"
+  },
+  "repository": "github:bablr-lang/bablr-highlight",
+  "homepage": "https://github.com/bablr-lang/bablr-highlight",
+  "license": "MIT"
+}
