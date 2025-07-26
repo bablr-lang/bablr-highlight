@@ -20,7 +20,7 @@
     "@bablr/helpers": "0.23.0",
     "@bablr/language-en-cstml": "0.10.0",
     "@bablr/language-en-esnext": "0.1.0",
-    "@iter-tools/imm-stack": "1.1.0",
+    "@iter-tools/imm-stack": "1.2.0",
     "bablr": "0.9.0",
     "classnames": "2.5.1"
   },
