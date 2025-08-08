@@ -1,5 +1,5 @@
 {
-  "name": "@bablr/highlight",
+  "name": "bedazzler",
   "version": "0.0.0",
   "description": "Code block syntax highlighting using BABLR",
   "author": "Conrad Buck<conartist6@gmail.com>",
@@ -15,13 +15,13 @@
     "test": "mocha test/*.test.js"
   },
   "dependencies": {
-    "@bablr/agast-helpers": "0.8.0",
-    "@bablr/boot": "0.9.0",
-    "@bablr/helpers": "0.23.0",
-    "@bablr/language-en-cstml": "0.10.0",
-    "@bablr/language-en-esnext": "0.1.0",
+    "@bablr/agast-helpers": "0.9.0",
+    "@bablr/boot": "0.10.0",
+    "@bablr/helpers": "0.24.0",
+    "@bablr/language-en-cstml": "0.11.0",
+    "@bablr/language-en-esnext": "0.2.0",
     "@iter-tools/imm-stack": "1.2.0",
-    "bablr": "0.9.0",
+    "bablr": "0.10.0",
     "classnames": "2.5.1"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "mocha": "^10.8.2",
     "prettier": "^2.6.2"
   },
-  "repository": "github:bablr-lang/bablr-highlight",
-  "homepage": "https://github.com/bablr-lang/bablr-highlight",
+  "repository": "github:bablr-lang/bedazzler",
+  "homepage": "https://github.com/bablr-lang/bedazzler",
   "license": "MIT"
 }
