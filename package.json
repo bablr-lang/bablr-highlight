@@ -20,7 +20,7 @@
     "@bablr/helpers": "0.24.0",
     "@bablr/language-en-cstml": "0.11.0",
     "@iter-tools/imm-stack": "1.2.0",
-    "bablr": "0.10.0",
+    "bablr": "0.10.1",
     "classnames": "2.5.1"
   },
   "devDependencies": {
