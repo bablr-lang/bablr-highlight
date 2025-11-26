@@ -1,3 +1,3 @@
 ## bedazzlr
 
-Syntax highlight for `<code />` blocks on webpages powered by BABLR
+Syntax highlighter for `<code />` blocks on webpages powered by BABLR
