@@ -15,12 +15,12 @@
     "test": "mocha test/*.test.js"
   },
   "dependencies": {
-    "@bablr/agast-helpers": "0.9.0",
-    "@bablr/agast-vm-helpers": "0.9.0",
-    "@bablr/boot": "0.10.0",
-    "@bablr/helpers": "0.24.0",
+    "@bablr/agast-helpers": "0.10.0",
+    "@bablr/agast-vm-helpers": "0.10.0",
+    "@bablr/boot": "0.11.0",
+    "@bablr/helpers": "0.25.0",
     "@iter-tools/imm-stack": "1.2.0",
-    "bablr": "0.10.2",
+    "bablr": "0.11.1",
     "classnames": "2.5.1"
   },
   "devDependencies": {
