@@ -1,6 +1,6 @@
 {
   "name": "bedazzlr",
-  "version": "0.0.0",
+  "version": "0.2.3",
   "description": "Code block syntax highlighting using BABLR",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
