@@ -19,7 +19,7 @@
     "@bablr/agast-vm-helpers": "0.11.3",
     "@bablr/helpers": "0.26.4",
     "@iter-tools/imm-stack": "1.2.0",
-    "bablr": "0.12.4",
+    "bablr": "0.12.5",
     "classnames": "2.5.1"
   },
   "devDependencies": {
